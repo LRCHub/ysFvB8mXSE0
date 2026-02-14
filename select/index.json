@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "淋しい熱帯魚",
+  "base_artist": "Wink",
+  "createdAt": "2026-02-14T13:38:23.265004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚 -SCRAMBLES ver.-",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/01_淋しい熱帯魚_-SCRAMBLES_ver.-_ClariS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚 -Instrumental-",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/02_淋しい熱帯魚_-Instrumental-_ClariS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/03_淋しい熱帯魚_Wink.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚 (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo feat. Wink",
+      "has_synced": true,
+      "path": "select/04_淋しい熱帯魚_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_feat._Wink.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/05_淋しい熱帯魚_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚 (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo",
+      "has_synced": true,
+      "path": "select/06_淋しい熱帯魚_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚 (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo & Wink",
+      "has_synced": true,
+      "path": "select/07_淋しい熱帯魚_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_&_Wink.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚",
+      "artist": "W",
+      "has_synced": true,
+      "path": "select/08_淋しい熱帯魚_W.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/09_淋しい熱帯魚_Wink.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "淋しい熱帯魚［Bonus Track］ (Remastered 2013)",
+      "artist": "Wink",
+      "has_synced": true,
+      "path": "select/10_淋しい熱帯魚[Bonus_Track]_(Remastered_2013)_Wink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "淋しい熱帯魚",
+      "artist": "Wink",
+      "has_synced": false,
+      "path": "select/pl_01_淋しい熱帯魚_Wink.txt"
+    }
+  ]
+}
